@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dmod129
 - 👀 I’m interested in ...programming
-- 🌱 I’m currently learning ...Python 3
+- 🌱 I’m currently learning ...Python 3, HTML, CSS
 - 💞️ I’m looking to collaborate on ...apps and programs
 - 📫 How to reach me ...derek.modugno@gmail.com
 
