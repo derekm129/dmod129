@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dmod129
+- 👋 Hi, I’m Derek Modugno
 - 👀 I’m interested in ...programming
 - 🌱 I’m currently learning ...Javascript, HTML, CSS
 - 💞️ I’m looking to collaborate on ...apps and programs
